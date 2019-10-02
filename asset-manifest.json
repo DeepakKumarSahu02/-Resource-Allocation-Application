@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/-Resource-Allocation-Application/static/css/main.ada48f17.chunk.css",
+    "main.js": "/-Resource-Allocation-Application/static/js/main.9a9d680d.chunk.js",
+    "main.js.map": "/-Resource-Allocation-Application/static/js/main.9a9d680d.chunk.js.map",
+    "runtime-main.js": "/-Resource-Allocation-Application/static/js/runtime-main.55e4b276.js",
+    "runtime-main.js.map": "/-Resource-Allocation-Application/static/js/runtime-main.55e4b276.js.map",
+    "static/css/2.0624914a.chunk.css": "/-Resource-Allocation-Application/static/css/2.0624914a.chunk.css",
+    "static/js/2.efbdf47e.chunk.js": "/-Resource-Allocation-Application/static/js/2.efbdf47e.chunk.js",
+    "static/js/2.efbdf47e.chunk.js.map": "/-Resource-Allocation-Application/static/js/2.efbdf47e.chunk.js.map",
+    "index.html": "/-Resource-Allocation-Application/index.html",
+    "precache-manifest.59001f4b83db7eaec49a2a12b9e2a9fa.js": "/-Resource-Allocation-Application/precache-manifest.59001f4b83db7eaec49a2a12b9e2a9fa.js",
+    "service-worker.js": "/-Resource-Allocation-Application/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/-Resource-Allocation-Application/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.ada48f17.chunk.css.map": "/-Resource-Allocation-Application/static/css/main.ada48f17.chunk.css.map"
+  }
+}
